@@ -818,7 +818,7 @@
   }
   
   .banner-title {
-    color: var(--eerie-black);
+    color: color: white;
     font-size: var(--fs-1);
     text-transform: uppercase;
     line-height: 1;
